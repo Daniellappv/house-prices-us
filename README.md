@@ -36,7 +36,7 @@ Key points are (excerpted from methodology):
 
 To download and process the data do:
 
-    python scripts/process.py
+`python scripts/process.py`
 
 Updated data files will then be in `data` directory.
 
